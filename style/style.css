@@ -1,0 +1,36 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color:	#ffe6cc;
+}
+
+.quem-somos{
+    color: white;
+    background-color: rgb(112, 112, 190);
+}
+
+.anyclass{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    color: white;
+    background-color: #36724a;
+}
+
+.tytle{
+    margin-top: .5rem;
+    margin-bottom: 2rem;
+}
+
+.imagem{
+    margin-bottom: 1rem;
+}
+
+.servicos{
+    color: white;
+    background-color: #913e49;
+}
